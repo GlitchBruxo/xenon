@@ -1,6 +1,6 @@
 debugX = true
 
-local Xenon = loadstring(game:HttpGet('https://sirius.menu/Xenon'))()
+local Xenon = loadstring(game:HttpGet('https://raw.githubusercontent.com/GlitchBruxo/xenon/refs/heads/main/source.lua'))()
 
 local Window = Xenon:CreateWindow({
    Name = "Xenon Example Window",
